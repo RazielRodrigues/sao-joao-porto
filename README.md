@@ -56,22 +56,6 @@ npm run preview
 5. A Vercel detectará automaticamente as configurações do Vite
 6. Clique em "Deploy"
 
-### Método 2: Deploy via CLI
-
-```bash
-# Instalar Vercel CLI
-npm i -g vercel
-
-# Fazer login
-vercel login
-
-# Deploy
-vercel
-
-# Para deploy de produção
-vercel --prod
-```
-
 ### Configurações Incluídas
 
 O projeto já inclui o arquivo `vercel.json` com as configurações otimizadas:
